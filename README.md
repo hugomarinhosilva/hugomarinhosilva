@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Marinho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-marinho-855a831a9/)](https://www.linkedin.com/in/hugo-marinho-855a831a9/) 
 [![Gmail Badge](https://img.shields.io/badge/-hugomarinho.to@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugomarinho.to@gmail.com)](mailto:hugomarinho.to@gmail.com)
 
-<3
+A young Developer passionate about Jesus and Javascript Programming...
