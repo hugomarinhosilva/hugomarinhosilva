@@ -9,7 +9,7 @@ Estou interessado em Tecnologia em Nuvem e Processos de Desenvolvimento, Teste e
 
 #### Você pode encontrar alguns projetos experimentais, sinta-se livre para contribuir ou usá-los. O conhecimento deve se espalhar !
 
-- 🐱‍💻  **DevOps**`Junior`
+- 🐱‍💻  **DevOps** `Junior`
 
 ### 🛠 I code using
 
@@ -20,9 +20,7 @@ Estou interessado em Tecnologia em Nuvem e Processos de Desenvolvimento, Teste e
 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
