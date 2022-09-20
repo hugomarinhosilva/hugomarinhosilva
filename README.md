@@ -7,10 +7,9 @@
 
 Estou interessado em Tecnologia em Nuvem e Processos de Desenvolvimento, Teste e Lançamento de Software, permitindo a entrega Contínua (CI/CD) de Atualizações de Software e Software. Então eu prefiro ferramentas AWS, GCP, Digital Ocean & DevOps.
 
-## Você pode encontrar alguns projetos experimentais, sinta-se livre para contribuir ou usá-los. O conhecimento deve se espalhar !
+#### Você pode encontrar alguns projetos experimentais, sinta-se livre para contribuir ou usá-los. O conhecimento deve se espalhar !
 
 - 🐱‍💻  **DevOps**`Junior`
-- 🌱 Atualmente estou aprendendo Kubernetes e Terraform
 
 ### 🛠 I code using
 
