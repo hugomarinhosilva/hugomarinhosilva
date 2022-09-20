@@ -5,13 +5,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Marinho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-marinho-855a831a9/)](https://www.linkedin.com/in/hugo-marinho-855a831a9/) 
 [![Gmail Badge](https://img.shields.io/badge/-hugomarinho.to@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugomarinho.to@gmail.com)](mailto:hugomarinho.to@gmail.com)
 
-Estou interessado em Tecnologia em Nuvem e Processos de Desenvolvimento, Teste e Lançamento de Software, permitindo a entrega Contínua (CI/CD) de Atualizações de Software e Software. Então eu prefiro ferramentas AWS, GCP, Digital Ocean & DevOps.
+Estou interessado em Tecnologia em Nuvem e Processos de Desenvolvimento, Teste e Lançamento de Software, permitindo a entrega Contínua (CI/CD) de Atualizações de Software e Software. Então eu prefiro ferramentas AWS, GCP, Azure, Digital Ocean & DevOps.
 
 #### Você pode encontrar alguns projetos experimentais, sinta-se livre para contribuir ou usá-los. O conhecimento deve se espalhar !
 
-
+-
 - 🐱‍💻  **DevOps** `Junior`
-
+-
 
 ### 🛠 I code using
 
