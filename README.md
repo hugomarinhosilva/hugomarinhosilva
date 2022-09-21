@@ -15,11 +15,6 @@ Estou interessado em Tecnologia em Nuvem e Processos de Desenvolvimento, Teste e
 
 ### 🛠 I code using
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-05122A?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
-
 ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
